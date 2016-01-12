@@ -1,0 +1,646 @@
+﻿#EXTM3U 
+#EXTINF:-1,AR:ALJAZZERA_1
+http://cdn.step-tv.com:8000/live/363636/363636/100.m3u8
+#EXTINF:-1,AR:LBC
+http://cdn.step-tv.com:8000/live/363636/363636/159.m3u8
+#EXTINF:-1,AR:FUTUR_TV
+http://cdn.step-tv.com:8000/live/363636/363636/160.m3u8
+#EXTINF:-1,AR:OTV_LEBANON
+http://cdn.step-tv.com:8000/live/363636/363636/1858.m3u8
+#EXTINF:-1,AR:ALJADID
+http://cdn.step-tv.com:8000/live/363636/363636/667.m3u8
+#EXTINF:-1,AR:MTV_LEBNANON
+http://cdn.step-tv.com:8000/live/363636/363636/863.m3u8
+#EXTINF:-1,AR:MBC_1
+http://cdn.step-tv.com:8000/live/363636/363636/106.m3u8
+#EXTINF:-1,AR:MBC_2
+http://cdn.step-tv.com:8000/live/363636/363636/107.m3u8
+#EXTINF:-1,AR:MBC_3
+http://cdn.step-tv.com:8000/live/363636/363636/108.m3u8
+#EXTINF:-1,AR:MBC_4
+http://cdn.step-tv.com:8000/live/363636/363636/109.m3u8
+#EXTINF:-1,AR:MBC+HD_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/1752.m3u8
+#EXTINF:-1,AR:MBC_MAX
+http://cdn.step-tv.com:8000/live/363636/363636/112.m3u8
+#EXTINF:-1,AR:MBC_MASR
+http://cdn.step-tv.com:8000/live/363636/363636/113.m3u8
+#EXTINF:-1,AR:MBC_MASAR2
+http://cdn.step-tv.com:8000/live/363636/363636/114.m3u8
+#EXTINF:-1,AR:MBC_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/111.m3u8
+#EXTINF:-1,AR:MBC_BOLLYWOOD
+http://cdn.step-tv.com:8000/live/363636/363636/115.m3u8
+#EXTINF:-1,AR:MBC_ACTION
+http://cdn.step-tv.com:8000/live/363636/363636/110.m3u8
+#EXTINF:-1,AR:ABUDHABI _TV
+http://cdn.step-tv.com:8000/live/363636/363636/130.m3u8
+#EXTINF:-1,AR:ABUDHABI_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/129.m3u8
+#EXTINF:-1,AR:ABUDHABI_EMARAT
+http://cdn.step-tv.com:8000/live/363636/363636/663.m3u8
+#EXTINF:-1,AR:NAT_GEOABUTHABI
+http://cdn.step-tv.com:8000/live/363636/363636/12.m3u8
+#EXTINF:-1,AR:DUBAI_TV
+http://cdn.step-tv.com:8000/live/363636/363636/122.m3u8
+#EXTINF:-1,AR:SAMA_DUBAI
+http://cdn.step-tv.com:8000/live/363636/363636/128.m3u8
+#EXTINF:-1,AR:DUBAI_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/126.m3u8
+#EXTINF:-1,AR:DUBAI_ZAMAN
+http://cdn.step-tv.com:8000/live/363636/363636/127.m3u8
+#EXTINF:-1,AR:DUBAI_ONE
+http://cdn.step-tv.com:8000/live/363636/363636/125.m3u8
+#EXTINF:-1,AR:TOYOR_JANNAH
+http://cdn.step-tv.com:8000/live/363636/363636/164.m3u8
+#EXTINF:-1,AR:CARTOON_NETWORK
+http://cdn.step-tv.com:8000/live/363636/363636/655.m3u8
+#EXTINF:-1,AR:SPACETOON
+http://cdn.step-tv.com:8000/live/363636/363636/165.m3u8
+#EXTINF:-1,AR:NOON_KIDS
+http://cdn.step-tv.com:8000/live/363636/363636/1699.m3u8
+#EXTINF:-1,AR:CANARY_KIDS
+http://cdn.step-tv.com:8000/live/363636/363636/1701.m3u8
+#EXTINF:-1,AR:BARAEM
+http://cdn.step-tv.com:8000/live/363636/363636/163.m3u8
+#EXTINF:-1,AR:KARAMISH
+http://cdn.step-tv.com:8000/live/363636/363636/179.m3u8
+#EXTINF:-1,AR:JEEM_TV
+http://cdn.step-tv.com:8000/live/363636/363636/848.m3u8
+#EXTINF:-1,AR:ART_CINEMA
+http://cdn.step-tv.com:8000/live/363636/363636/185.m3u8
+#EXTINF:-1,AR:ART_AFLAM1
+http://cdn.step-tv.com:8000/live/363636/363636/183.m3u8
+#EXTINF:-1,AR:ART_AFLAM2
+http://cdn.step-tv.com:8000/live/363636/363636/186.m3u8
+#EXTINF:-1,https://iptv.zone AR:ART_HEKAYAT1
+http://cdn.step-tv.com:8000/live/363636/363636/604.m3u8
+#EXTINF:-1,AR:ART_HEKYAT2
+http://cdn.step-tv.com:8000/live/363636/363636/184.m3u8
+#EXTINF:-1,AR:OSN_MOVIES_HD
+http://cdn.step-tv.com:8000/live/363636/363636/1684.m3u8
+#EXTINF:-1,AR:OSN_MOVIES_ACTION
+http://cdn.step-tv.com:8000/live/363636/363636/1683.m3u8
+#EXTINF:-1,AR:OSN_YA_HALA
+http://cdn.step-tv.com:8000/live/363636/363636/1682.m3u8
+#EXTINF:-1,AR:OSN_STAR_MOVIES
+http://cdn.step-tv.com:8000/live/363636/363636/1739.m3u8
+#EXTINF:-1,AR:OSN_MOVIES_PREMIERE
+http://cdn.step-tv.com:8000/live/363636/363636/1713.m3u8
+#EXTINF:-1,AR:OSN_FESTIVAL
+http://cdn.step-tv.com:8000/live/363636/363636/1706.m3u8
+#EXTINF:-1,AR:OSN_MOVIES_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/1932.m3u8
+#EXTINF:-1,AR:OSN_ELYOUM
+http://cdn.step-tv.com:8000/live/363636/363636/1933.m3u8
+#EXTINF:-1,AR:OSN_CINEMA1
+http://cdn.step-tv.com:8000/live/363636/363636/1686.m3u8
+#EXTINF:-1,AR:OSN_CINEMA2
+http://cdn.step-tv.com:8000/live/363636/363636/1863.m3u8
+#EXTINF:-1,NEWS: Euronews Arabic
+http://iptv80.ddns.net:9070/live/karimos/skype88/691.m3u8
+#EXTINF:-1,AR:ROTANA_MUSIC
+http://cdn.step-tv.com:8000/live/363636/363636/121.m3u8
+#EXTINF:-1,AR:ROTANA_MASRIYA
+http://cdn.step-tv.com:8000/live/363636/363636/117.m3u8
+#EXTINF:-1,AR:ROTANA_CINEMA
+http://cdn.step-tv.com:8000/live/363636/363636/116.m3u8
+#EXTINF:-1,AR:ROTANA_KHALIJIA
+http://cdn.step-tv.com:8000/live/363636/363636/1120.m3u8
+#EXTINF:-1,AR:ROTANA_CLIP
+http://cdn.step-tv.com:8000/live/363636/363636/120.m3u8
+#EXTINF:-1,AR:ROTANA_CLASSIC
+http://cdn.step-tv.com:8000/live/363636/363636/119.m3u8
+#EXTINF:-1,AR:CBC_SOFRA
+http://cdn.step-tv.com:8000/live/363636/363636/151.m3u8
+#EXTINF:-1,AR:CBC_EXTRA
+http://cdn.step-tv.com:8000/live/363636/363636/152.m3u8
+#EXTINF:-1,AR:CBC_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/150.m3u8
+#EXTINF:-1,AR:CBC_2
+http://cdn.step-tv.com:8000/live/363636/363636/104.m3u8
+#EXTINF:-1,AR:CBC_1
+http://cdn.step-tv.com:8000/live/363636/363636/149.m3u8
+#EXTINF:-1,AR:STAR_CINEMA2
+http://cdn.step-tv.com:8000/live/363636/363636/1938.m3u8
+#EXTINF:-1,AR:STAR_CINEMA
+http://cdn.step-tv.com:8000/live/363636/363636/1937.m3u8
+#EXTINF:-1,AR:MELODY
+http://cdn.step-tv.com:8000/live/363636/363636/1860.m3u8
+#EXTINF:-1,AR:LDC_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1935.m3u8
+#EXTINF:-1,AR:HI_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1936.m3u8
+#EXTINF:-1,AR:MOGA_COMEDY
+http://cdn.step-tv.com:8000/live/363636/363636/1805.m3u8
+#EXTINF:-1,AR:TEN2
+http://cdn.step-tv.com:8000/live/363636/363636/1407.m3u8
+#EXTINF:-1,AR:TEN_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1406.m3u8
+#EXTINF:-1,AR:MELODY_CLASSIC
+http://cdn.step-tv.com:8000/live/363636/363636/1803.m3u8
+#EXTINF:-1,AR:MELODY_AFLAM
+http://cdn.step-tv.com:8000/live/363636/363636/1762.m3u8
+#EXTINF:-1,AR:PANORAMA_DRAMA2
+http://cdn.step-tv.com:8000/live/363636/363636/1804.m3u8
+#EXTINF:-1,AR:PANORAMA_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/1802.m3u8
+#EXTINF:-1,AR:PANORAMA_COMDY
+http://cdn.step-tv.com:8000/live/363636/363636/1801.m3u8
+#EXTINF:-1,AR:ALHAYAT1
+http://cdn.step-tv.com:8000/live/363636/363636/157.m3u8
+#EXTINF:-1,AR:ALHAYAT_2
+http://cdn.step-tv.com:8000/live/363636/363636/158.m3u8
+#EXTINF:-1,AR:DREAM_1
+http://cdn.step-tv.com:8000/live/363636/363636/86.m3u8
+#EXTINF:-1,AR:DREAM_2
+http://cdn.step-tv.com:8000/live/363636/363636/87.m3u8
+#EXTINF:-1,AR:CAIRO_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/155.m3u8
+#EXTINF:-1,AR:ALOULA_EGYPT
+http://cdn.step-tv.com:8000/live/363636/363636/79.m3u8
+#EXTINF:-1,AR:ALAHLY_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1698.m3u8
+#EXTINF:-1,AR:ALNAHAR_MASR
+http://cdn.step-tv.com:8000/live/363636/363636/105.m3u8
+#EXTINF:-1,AR:ALNAHAR_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/97.m3u8
+#EXTINF:-1,AR:ALNAHAR_SPORT
+http://cdn.step-tv.com:8000/live/363636/363636/866.m3u8
+#EXTINF:-1,AR:NILE_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/1542.m3u8
+#EXTINF:-1,AR:NILE_COMEDY
+http://cdn.step-tv.com:8000/live/363636/363636/47.m3u8
+#EXTINF:-1,AR:NILE_CINEMA
+http://cdn.step-tv.com:8000/live/363636/363636/48.m3u8
+#EXTINF:-1,AR:ZEE_AFLAM
+http://cdn.step-tv.com:8000/live/363636/363636/154.m3u8
+#EXTINF:-1,AR:ZEE_ALWAN
+http://cdn.step-tv.com:8000/live/363636/363636/153.m3u8
+#EXTINF:-1,AR:ZEE_LIVING
+http://cdn.step-tv.com:8000/live/363636/363636/1934.m3u8
+#EXTINF:-1,AR:FATAFEET
+http://cdn.step-tv.com:8000/live/363636/363636/60.m3u8
+#EXTINF:-1,AR:ENTV_DZ
+http://cdn.step-tv.com:8000/live/363636/363636/1613.m3u8
+#EXTINF:-1,https://iptv.zone AR:EL_DJAZAIRIA
+http://cdn.step-tv.com:8000/live/363636/363636/65.m3u8
+#EXTINF:-1,AR:EL_HEDDAF
+http://cdn.step-tv.com:8000/live/363636/363636/66.m3u8
+#EXTINF:-1,AR:ECHOUROK_TV
+http://cdn.step-tv.com:8000/live/363636/363636/138.m3u8
+#EXTINF:-1,AR:ECHOROKTV_NEWS
+http://cdn.step-tv.com:8000/live/363636/363636/140.m3u8
+#EXTINF:-1,AR:NUMEDIA_NEWS
+http://cdn.step-tv.com:8000/live/363636/363636/1700.m3u8
+#EXTINF:-1,AR:ECHOUROUK_BENNA
+http://cdn.step-tv.com:8000/live/363636/363636/75.m3u8
+#EXTINF:-1,AR:TAMAZIGHT_ALGERIA_4
+http://cdn.step-tv.com:8000/live/363636/363636/1469.m3u8
+#EXTINF:-1,AR:CANAL_ALG
+http://cdn.step-tv.com:8000/live/363636/363636/136.m3u8
+#EXTINF:-1,AR:DZAIR_TV
+http://cdn.step-tv.com:8000/live/363636/363636/73.m3u8
+#EXTINF:-1,AR:LINEDX_(DZ)
+http://cdn.step-tv.com:8000/live/363636/363636/835.m3u8
+#EXTINF:-1,AR:DZAIR_NEWS
+http://cdn.step-tv.com:8000/live/363636/363636/64.m3u8
+#EXTINF:-1,AR:ALG_3
+http://cdn.step-tv.com:8000/live/363636/363636/135.m3u8
+#EXTINF:-1,AR:ENNAHAR_LAKI
+http://cdn.step-tv.com:8000/live/363636/363636/1768.m3u8
+#EXTINF:-1,AR:ENNAHAR_TV
+http://cdn.step-tv.com:8000/live/363636/363636/137.m3u8
+#EXTINF:-1,AR:KBC_(DZ)
+http://cdn.step-tv.com:8000/live/363636/363636/134.m3u8
+#EXTINF:-1,AR:SAMIRA_TV
+http://cdn.step-tv.com:8000/live/363636/363636/139.m3u8
+#EXTINF:-1,AR:AlWATAN_DZ
+http://cdn.step-tv.com:8000/live/363636/363636/133.m3u8
+#EXTINF:-1,AR:El_BILAD(DZ)
+http://cdn.step-tv.com:8000/live/363636/363636/132.m3u8
+#EXTINF:-1,AR:BEURTV_(DZ)
+http://cdn.step-tv.com:8000/live/363636/363636/141.m3u8
+#EXTINF:-1,AR:ALFAJR_DZ
+http://cdn.step-tv.com:8000/live/363636/363636/1844.m3u8
+#EXTINF:-1,AR:ELHIWAR_TOUNSI
+http://cdn.step-tv.com:8000/live/363636/363636/1537.m3u8
+#EXTINF:-1,AR:TELVZA_TN
+http://cdn.step-tv.com:8000/live/363636/363636/1720.m3u8
+#EXTINF:-1,AR:NESSMA_TN
+http://cdn.step-tv.com:8000/live/363636/363636/143.m3u8
+#EXTINF:-1,AR:TUNISIA1
+http://cdn.step-tv.com:8000/live/363636/363636/144.m3u8
+#EXTINF:-1,AR:TUNISIA2_TN
+http://cdn.step-tv.com:8000/live/363636/363636/142.m3u8
+#EXTINF:-1,AR:ALJANOUBIA_TN
+http://cdn.step-tv.com:8000/live/363636/363636/1843.m3u8
+#EXTINF:-1,AR:ZAYTOUNA_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1704.m3u8
+#EXTINF:-1,AR:TNN_TUNISIA
+http://cdn.step-tv.com:8000/live/363636/363636/570.m3u8
+#EXTINF:-1,AR:FIRST_TN
+http://cdn.step-tv.com:8000/live/363636/363636/571.m3u8
+#EXTINF:-1,AR:ETTOUNSIA
+http://cdn.step-tv.com:8000/live/363636/363636/147.m3u8
+#EXTINF:-1,AR:HANNIBAL_TN
+http://cdn.step-tv.com:8000/live/363636/363636/57.m3u8
+#EXTINF:-1,AR:TOUNESNA_TN
+http://cdn.step-tv.com:8000/live/363636/363636/146.m3u8
+#EXTINF:-1,AR:ETTASSIA_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1475.m3u8
+#EXTINF:-1,AR:MEDI1_SAT
+http://cdn.step-tv.com:8000/live/363636/363636/6.m3u8
+#EXTINF:-1,AR:2M_MAROC
+http://cdn.step-tv.com:8000/live/363636/363636/148.m3u8
+#EXTINF:-1,AR:ALOULA_MAR
+http://cdn.step-tv.com:8000/live/363636/363636/3.m3u8
+#EXTINF:-1,AR:BZAF_MUSIC
+http://cdn.step-tv.com:8000/live/363636/363636/1703.m3u8
+#EXTINF:-1,AR:BZAF_LIFE
+http://cdn.step-tv.com:8000/live/363636/363636/1702.m3u8
+#EXTINF:-1,AR:ALTHANIA
+http://cdn.step-tv.com:8000/live/363636/363636/94.m3u8
+#EXTINF:-1,AR:ARRIADHIA_MAROC
+http://cdn.step-tv.com:8000/live/363636/363636/9.m3u8
+#EXTINF:-1,AR:ASSADISSA_MAR
+http://cdn.step-tv.com:8000/live/363636/363636/7.m3u8
+#EXTINF:-1,AR:ALMAGHRIBIA
+http://cdn.step-tv.com:8000/live/363636/363636/664.m3u8
+#EXTINF:-1,AR:IQRAA_AFRICA
+http://cdn.step-tv.com:8000/live/363636/363636/1611.m3u8
+#EXTINF:-1,AR:QURAN_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1800.m3u8
+#EXTINF:-1,AR:IQRAA
+http://cdn.step-tv.com:8000/live/363636/363636/171.m3u8
+#EXTINF:-1,AR:TALAQUI_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1763.m3u8
+#EXTINF:-1,AR:SYRIA_DRAMA
+http://cdn.step-tv.com:8000/live/363636/363636/177.m3u8
+#EXTINF:-1,AR:SYRIA_TV
+http://cdn.step-tv.com:8000/live/363636/363636/70.m3u8
+#EXTINF:-1,AR:NOUR_SHAM
+http://cdn.step-tv.com:8000/live/363636/363636/1712.m3u8
+#EXTINF:-1,AR:SADA_ELBALAD
+http://cdn.step-tv.com:8000/live/363636/363636/2.m3u8
+#EXTINF:-1,AR:SEMSEM
+http://cdn.step-tv.com:8000/live/363636/363636/846.m3u8
+#EXTINF:-1,AR:ORIENT_NEWS
+http://cdn.step-tv.com:8000/live/363636/363636/45.m3u8
+#EXTINF:-1,AR:ALMAJD3
+http://cdn.step-tv.com:8000/live/363636/363636/665.m3u8
+#EXTINF:-1,AR:MAZZIKA
+http://cdn.step-tv.com:8000/live/363636/363636/1107.m3u8
+#EXTINF:-1,AR:AGHANINA
+http://cdn.step-tv.com:8000/live/363636/363636/1751.m3u8
+#EXTINF:-1,AR:AL_RESSALAH
+http://cdn.step-tv.com:8000/live/363636/363636/96.m3u8
+#EXTINF:-1,AR:ADDOUNIA_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1610.m3u8
+#EXTINF:-1,AR:JORDAN_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1779.m3u8
+#EXTINF:-1,AR:ALMAYADEN
+http://cdn.step-tv.com:8000/live/363636/363636/99.m3u8
+#EXTINF:-1,AR:TRT_ARABIC
+http://cdn.step-tv.com:8000/live/363636/363636/1778.m3u8
+#EXTINF:-1,AR:IRAQIA_TV
+http://cdn.step-tv.com:8000/live/363636/363636/567.m3u8
+#EXTINF:-1,AR:HONA_BAGHDAD_TV
+http://cdn.step-tv.com:8000/live/363636/363636/843.m3u8
+#EXTINF:-1,AR:BAGHDAD2_TV
+http://cdn.step-tv.com:8000/live/363636/363636/515.m3u8
+#EXTINF:-1,AR:IRAQIA_NEWS
+http://cdn.step-tv.com:8000/live/363636/363636/1721.m3u8
+#EXTINF:-1,AR:BAGHDADIA
+http://cdn.step-tv.com:8000/live/363636/363636/1103.m3u8
+#EXTINF:-1,AR:BAGHDADIA2
+http://cdn.step-tv.com:8000/live/363636/363636/1408.m3u8
+#EXTINF:-1,AR:ISHTAR
+http://cdn.step-tv.com:8000/live/363636/363636/837.m3u8
+#EXTINF:-1,AR:RASHEED_TV
+http://cdn.step-tv.com:8000/live/363636/363636/43.m3u8
+#EXTINF:-1,AR:AL_SUMARIA
+http://cdn.step-tv.com:8000/live/363636/363636/558.m3u8
+#EXTINF:-1,AR:AL_SHARQUIANEWS
+http://cdn.step-tv.com:8000/live/363636/363636/514.m3u8
+#EXTINF:-1,AR:AL_RAFIDAIN
+http://cdn.step-tv.com:8000/live/363636/363636/516.m3u8
+#EXTINF:-1,AR:AL_HURRAIRAQ
+http://cdn.step-tv.com:8000/live/363636/363636/517.m3u8
+#EXTINF:-1,AR:Al_SHARIQIYA_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1410.m3u8
+#EXTINF:-1,AR:KUWAIT_TV2
+http://cdn.step-tv.com:8000/live/363636/363636/52.m3u8
+#EXTINF:-1,AR:IRAQIA_SPORT
+http://cdn.step-tv.com:8000/live/363636/363636/1409.m3u8
+#EXTINF:-1,AR:DUBAI_SPORT
+http://cdn.step-tv.com:8000/live/363636/363636/123.m3u8
+#EXTINF:-1,AR:ADSPROT_1
+http://cdn.step-tv.com:8000/live/363636/363636/103.m3u8
+#EXTINF:-1,AR:ADSPORT2_TV
+http://cdn.step-tv.com:8000/live/363636/363636/44.m3u8
+#EXTINF:-1,AR:NILE_SPORT
+http://cdn.step-tv.com:8000/live/363636/363636/37.m3u8
+#EXTINF:-1,AR:ALKASS_TV
+http://cdn.step-tv.com:8000/live/363636/363636/1710.m3u8
+#EXTINF:-1,AR:ALARABYA_NEWS
+http://cdn.step-tv.com:8000/live/363636/363636/178.m3u8
+#EXTINF:-1,AR:ALARABIYA_ALLHADATH
+http://cdn.step-tv.com:8000/live/363636/363636/101.m3u8
+#EXTINF:-1,AR:RT_NEWS
+http://cdn.step-tv.com:8000/live/363636/363636/1798.m3u8
+#EXTINF:-1,AR:ALJAZEERA_DOC
+http://cdn.step-tv.com:8000/live/363636/363636/80.m3u8
+#EXTINF:-1,AR:BBC_ARABIC
+http://cdn.step-tv.com:8000/live/363636/363636/89.m3u8
+#EXTINF:-1,AR:ANN_NEWS
+http://cdn.step-tv.com:8000/live/363636/363636/166.m3u8
+#EXTINF:-1,AR:PALESTINE_TODAY
+http://cdn.step-tv.com:8000/live/363636/363636/169.m3u8
+#EXTINF:-1,AR:MBC_PROSports1
+http://cdn.step-tv.com:8000/live/363636/363636/180.m3u8
+#EXTINF:-1,AR:MBC_PROSports2
+http://cdn.step-tv.com:8000/live/363636/363636/181.m3u8
+#EXTINF:-1,AR:MBC_PROSports3
+http://cdn.step-tv.com:8000/live/363636/363636/182.m3u8
+#EXTINF:-1,https://iptv.zone AR:MBC_PROSports3
+http://cdn.step-tv.com:8000/live/363636/363636/182.m3u8
+#EXTINF:-1,AR:MBC_PROSports4
+http://cdn.step-tv.com:8000/live/363636/363636/49.m3u8
+#EXTINF:-1,AR:BEIN_NEWS
+http://cdn.step-tv.com:8000/live/363636/363636/1754.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD1
+http://cdn.step-tv.com:8000/live/363636/363636/26.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD2
+http://cdn.step-tv.com:8000/live/363636/363636/27.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD3
+http://cdn.step-tv.com:8000/live/363636/363636/28.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD4
+http://cdn.step-tv.com:8000/live/363636/363636/29.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD5
+http://cdn.step-tv.com:8000/live/363636/363636/30.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD6
+http://cdn.step-tv.com:8000/live/363636/363636/31.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD7
+http://cdn.step-tv.com:8000/live/363636/363636/32.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD8
+http://cdn.step-tv.com:8000/live/363636/363636/33.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD9
+http://cdn.step-tv.com:8000/live/363636/363636/34.m3u8
+#EXTINF:-1,AR:BEIN_SportsHD10
+http://cdn.step-tv.com:8000/live/363636/363636/35.m3u8
+#EXTINF:-1,AR:BEIN_Sports_1
+http://cdn.step-tv.com:8000/live/363636/363636/1209.m3u8
+#EXTINF:-1,AR:BEIN_Sports_2
+http://cdn.step-tv.com:8000/live/363636/363636/1210.m3u8
+#EXTINF:-1,AR:BEIN_Sports_3
+http://cdn.step-tv.com:8000/live/363636/363636/1211.m3u8
+#EXTINF:-1,AR:BEIN_Sports_4
+http://cdn.step-tv.com:8000/live/363636/363636/1212.m3u8
+#EXTINF:-1,AR:BEIN_Sports_5
+http://cdn.step-tv.com:8000/live/363636/363636/1213.m3u8
+#EXTINF:-1,AR:BEIN_Sports_6
+http://cdn.step-tv.com:8000/live/363636/363636/1214.m3u8
+#EXTINF:-1,AR:BEIN_Sports_7
+http://cdn.step-tv.com:8000/live/363636/363636/1215.m3u8
+#EXTINF:-1,AR:BEIN_Sports_8
+http://cdn.step-tv.com:8000/live/363636/363636/1216.m3u8
+#EXTINF:-1,AR:BEIN_Sports_9
+http://cdn.step-tv.com:8000/live/363636/363636/1217.m3u8
+#EXTINF:-1,AR:BEIN_Sports_10
+http://cdn.step-tv.com:8000/live/363636/363636/1218.m3u8
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered]ARD HD[/COLOR]
+http://62.65.140.151:80/session/e725bf46-b8c5-11e5-b307-005056bc1a52/nvnv5a/2/1165/index.m3u8?token=0c8936a20ca0e93cd1011c9bf6d7dac4_1452645982_1452645982&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR RoyalBlue]ZDF HD[/COLOR]
+http://62.65.140.152:80/session/350ae042-b8c6-11e5-a9f0-005056bc49ac/nvnv5a/2/1166/index.m3u8?token=4c10d05edab263e58c6fc89b76c73830_1452646113_1452646113&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0800 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR RoyalBlue]ZDF SD[/COLOR]
+http://217.20.164.196:8080/zdf/index.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="0053.png",[COLOR RoyalBlue]ZDF neo HD[/COLOR]
+http://62.65.140.152:80/session/34a827c2-b8c6-11e5-9e16-005056bc49ac/nvnv5a/1/1121/index.m3u8?token=421e7539f52974f7a6dbfa0d17720946_1452646112_1452646112&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDFtheater.de" group-title="Deutsch" tvg-logo="0055.png",[COLOR RoyalBlue]ZDF.Kultur HD[/COLOR] 
+http://62.65.140.216:80/session/35877ee0-b8c6-11e5-86a5-005056bc06d1/nvnv5a/1/1119/index.m3u8?token=343bc2f4a380349c8b367c13e03c6f1f_1452646114_1452646114&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="0057.png",[COLOR RoyalBlue]ZDF-Info HD[/COLOR]
+http://62.65.140.152:80/session/35f306ce-b8c6-11e5-9256-005056bc49ac/nvnv5a/1/1118/index.m3u8?token=4271da54a0639414b5befc9d4544500a_1452646114_1452646114&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="WDR.de" group-title="Deutsch" tvg-logo="0018.png",[COLOR RoyalBlue]WDR HD[/COLOR] 
+http://62.65.140.215:80/session/3657953a-b8c6-11e5-913d-005056bc49ac/nvnv5a/1/1113/index.m3u8?token=a6e2c94657e6bf5119e763c0883604f4_1452646115_1452646115&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR RoyalBlue]3sat HD[/COLOR]
+http://62.65.140.154:80/session/e4ce3f48-b8c5-11e5-a5ec-005056bc06d1/nvnv5a/1/1117/index.m3u8?token=e49ba768b43d0bb60ff32f3fe139bb14_1452645978_1452645978&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR RoyalBlue]Arte HD[/COLOR]
+http://62.65.140.213:80/session/e82422de-b8c5-11e5-aa54-005056bc49ac/nvnv5a/1/1150/index.m3u8?token=0cd2f14c2785808d111fc2887c033bd5_1452645984_1452645984&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="MDRSachsen.de" group-title="Deutsch" tvg-logo="0020.png",[COLOR RoyalBlue]MDR[/COLOR]
+http://62.65.140.150:80/session/fd8b634e-b8c5-11e5-8dad-005056bc49ac/nvnv5a/1/1069/index.m3u8?token=5e65031c8e6e7cc2b98eae5b99dbc056_1452646020_1452646020&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="BR.de" group-title="Deutsch" tvg-logo="0022.png",[COLOR RoyalBlue]BR HD[/COLOR]
+http://62.65.140.214:80/session/ea8d9f64-b8c5-11e5-b51d-005056bc06d1/nvnv5a/1/1112/index.m3u8?token=81f6556d23e65169139f3ccd17f9d7f6_1452645988_1452645988&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0800 tvg-id="rbbBerlin.de" group-title="Deutsch" tvg-logo="0027.png",[COLOR RoyalBlue]RBB SD[/COLOR]
+http://217.20.164.196:8080/rbb/index.m3u8
+#EXTINF:0800 tvg-id="ndr.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR RoyalBlue]NDR SD[/COLOR]
+http://217.20.164.196:8080/ndr/index.m3u8
+#EXTINF:0800 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR RoyalBlue]SWR SD[/COLOR]
+http://217.20.164.196:8080/swr/index.m3u8
+#EXTINF:0800 tvg-id="n24.de" group-title="Deutsch" tvg-logo="0032.png",[COLOR RoyalBlue]N24[/COLOR]
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
+#EXTINF:0800 tvg-id="tagesschau24.de" group-title="Deutsch" tvg-logo="0064.png",[COLOR RoyalBlue]tagesschau24[/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR RoyalBlue]PHOENIX HD[/COLOR]
+http://62.65.140.215:80/session/018cdf4a-b8c6-11e5-a311-005056bc1a52/nvnv5a/1/1122/index.m3u8?token=cc3673456d3fbce0d9de9b2b889ebd7c_1452646026_1452646026&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="AnixeHD.de" group-title="Deutsch" tvg-logo="0066.png",[COLOR RoyalBlue]Anixe HD[/COLOR]
+http://62.65.140.215:80/session/e6ba23e4-b8c5-11e5-8f6e-005056bc06d1/nvnv5a/1/1134/index.m3u8?token=24eefbe9325ccbb56150ece286c75a47_1452645981_1452645981&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ntv.de" group-title="Deutsch" tvg-logo="0034.png",[COLOR RoyalBlue]n-tv[/COLOR]
+http://62.65.140.213:80/session/fedbcdec-b8c5-11e5-93a9-005056bc49ac/nvnv5a/1/1025/index.m3u8?token=5b77a73b421146207a6d4f8151c0b418_1452646022_1452646022&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ndr.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR RoyalBlue]NDR HD[/COLOR]
+http://62.65.140.153:80/session/ff69d2c2-b8c5-11e5-a788-005056bc1a52/nvnv5a/1/1115/index.m3u8?token=cc10737af976a9c4a1ca9882ab20bd51_1452646023_1452646023&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR RoyalBlue]SWR BW HD[/COLOR]
+http://62.65.140.151:80/session/0f6af1a6-b8c6-11e5-8f8a-005056bc49ac/nvnv5a/1/1114/index.m3u8?token=d66ee37f5d4544e40d43ffc27f350d69_1452646050_1452646050&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="AlJazeera.nws" group-title="English" tvg-logo="0425.png",[COLOR RoyalBlue]Al Jazeera EN[/COLOR]
+http://62.65.140.218:80/session/e62d4e24-b8c5-11e5-8ebe-005056bc49ac/nvnv5a/2/4013/index.m3u8?token=3b8aa1cfdb33c09981ff747be00f10ec_1452645980_1452645980&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0127.png",[COLOR RoyalBlue]RTL HD[/COLOR]
+http://62.65.140.218:80/session/088dfd6a-b8c6-11e5-8377-005056bc06d1/nvnv5a/1/1020/index.m3u8?token=fd216984835d1120094fd6937cd3c5fe_1452646038_1452646038&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0800 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0005.png",[COLOR RoyalBlue]RTL SD[/COLOR]
+http://217.20.164.196:8080/rtl/index.m3u8
+#EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR RoyalBlue]RTL Nitro HD[/COLOR]
+http://62.65.140.216:80/session/08fc9d6a-b8c6-11e5-b5d5-005056bc06d1/nvnv5a/1/1027/index.m3u8?token=e20dfa4a1e44f4191797800acfcc68d0_1452646039_1452646039&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0131.png",[COLOR RoyalBlue]RTL 2 HD[/COLOR]
+http://62.65.140.150:80/session/079628a6-b8c6-11e5-8998-005056bc1a52/nvnv5a/1/1024/index.m3u8?token=f1347155240b83adc4437b1dacd878fd_1452646036_1452646036&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0129.png",[COLOR RoyalBlue]Sat.1 HD[/COLOR]
+http://62.65.140.148:80/session/0bd6b408-b8c6-11e5-8f71-005056bc49ac/nvnv5a/1/1038/index.m3u8?token=dbbad9e191704b07fefdb3e81b0034c1_1452646044_1452646044&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0800 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0006.png",[COLOR RoyalBlue]Sat.1 SD[/COLOR]
+http://217.20.164.196:8080/sat1/index.m3u8
+#EXTINF:0800 tvg-id="Sat1Gold.de" group-title="Deutsch" tvg-logo="0000.png",[COLOR RoyalBlue]Sat.1 Gold SD[/COLOR]
+http://94.229.33.76:5000/udp/239.1.1.82:1234
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0128.png",[COLOR RoyalBlue]Pro7 HD[/COLOR]
+http://62.65.140.148:80/session/01f8438e-b8c6-11e5-82db-005056bc1a52/nvnv5a/1/1037/index.m3u8?token=c27a845334810c9749127bbc3b7c8b0a_1452646027_1452646027&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR RoyalBlue]Pro7Maxx[/COLOR]
+http://62.65.140.219:80/session/02626796-b8c6-11e5-a10b-005056bc1a52/nvnv5a/1/1041/index.m3u8?token=6482491a926ce1d7be4b36fb9d45b96f_1452646028_1452646028&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0130.png",[COLOR RoyalBlue]Kabel 1 HD[/COLOR]
+http://62.65.140.212:80/session/fa6d3c28-b8c5-11e5-a27d-005056bc49ac/nvnv5a/1/1039/index.m3u8?token=2445652e417326d76e3474e0a80be44d_1452646015_1452646015&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="0010.png",[COLOR RoyalBlue]VOX HD[/COLOR]
+http://62.65.140.213:80/session/371ec164-b8c6-11e5-88d2-005056bc49ac/nvnv5a/1/1021/index.m3u8?token=9140f93dd1e968f65d96698723861acc_1452646116_1452646116&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0800 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="vox.de.png",[COLOR RoyalBlue]VOX SD[/COLOR]
+http://217.20.164.196:8080/vox/index.m3u8
+#EXTINF:-1 tvg-id="SRTL.de" group-title="Deutsch" tvg-logo="0143.png",[COLOR RoyalBlue]Super RTL HD[/COLOR]
+http://62.65.140.148:80/session/0af548a6-b8c6-11e5-800e-005056bc49ac/nvnv5a/1/1023/index.m3u8?token=5d41ef6420d09ae9e9eb99a814bc79fa_1452646042_1452646042&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Tele5.de" group-title="Deutsch" tvg-logo="0041.png",[COLOR RoyalBlue]Tele 5[/COLOR]
+http://62.65.140.155:80/session/118b00a2-b8c6-11e5-ade0-005056bc49ac/nvnv5a/1/1090/index.m3u8?token=abbb7afe1cf884948849f954a3135692_1452646053_1452646053&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR RoyalBlue]DMAX[/COLOR]
+http://62.65.140.148:80/session/f01817d4-b8c5-11e5-ad02-005056bc06d1/nvnv5a/1/1018/index.m3u8?token=9fe8af2a9b092a0e20d7197a9e7aa41e_1452645997_1452645997&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Sixx.de" group-title="Deutsch" tvg-logo="0133.png",[COLOR RoyalBlue]sixx HD[/COLOR]
+http://62.65.140.218:80/session/0cc1b4d0-b8c6-11e5-9745-005056bc49ac/nvnv5a/1/1040/index.m3u8?token=988f1b663387f3fc3eb06a05bb27494e_1452646045_1452646045&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ServusHD.de" group-title="Deutsch" tvg-logo="0123.png",[COLOR RoyalBlue]Servus TV HD[/COLOR]
+http://62.65.140.217:80/session/0c63e92c-b8c6-11e5-8f5b-005056bc06d1/nvnv5a/1/1012/index.m3u8?token=e082ec09f14fe52375107e445dfa155a_1452646044_1452646044&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="disneychannel.de" group-title="Deutsch" tvg-logo="0036.png",[COLOR RoyalBlue]Disney Channel[/COLOR]
+http://62.65.140.149:80/session/efb37e8c-b8c5-11e5-b3ce-005056bc49ac/nvnv5a/1/1124/index.m3u8?token=6861fe4fb7f5f1a8e7d6d9f2fd0de3ea_1452645997_1452645997&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Nick.de" group-title="Deutsch" tvg-logo="0043.png",[COLOR RoyalBlue]Nickelodeon[/COLOR]
+http://62.65.140.154:80/session/ffd66536-b8c5-11e5-982e-005056bc06d1/nvnv5a/1/1004/index.m3u8?token=cb7fe4b7f0267d88695ef2954196f4ff_1452646024_1452646024&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Nick.ch" group-title="Deutsch" tvg-logo="0141.png",[COLOR RoyalBlue]Nickelodeon HD Schweiz[/COLOR]
+http://62.65.140.213:80/session/00457228-b8c6-11e5-99fb-005056bc49ac/nvnv5a/1/1034/index.m3u8?token=bc87c7d40b6f22efc27d5d7ecfbc1f5e_1452646024_1452646024&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0135.png",[COLOR RoyalBlue]3+ HD[/COLOR]
+http://62.65.140.150:80/session/e4655906-b8c5-11e5-96c8-005056bc49ac/nvnv5a/1/1013/index.m3u8?token=cc0ffc3c4e98eb00b5c94a1cdd94cc64_1452645977_1452645977&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="4plus.ch" group-title="Deutsch" tvg-logo="0136.png",[COLOR RoyalBlue]4+ HD[/COLOR]
+http://62.65.140.154:80/session/e539f198-b8c5-11e5-b3b0-005056bc49ac/nvnv5a/1/1031/index.m3u8?token=c3fc3adadb25bd9ee49ac7e1b1aab014_1452645979_1452645979&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="5plus.ch" group-title="Deutsch" tvg-logo="0137.png",[COLOR RoyalBlue]5+ HD[/COLOR]
+http://62.65.140.152:80/session/e5a59830-b8c5-11e5-898e-005056bc49ac/nvnv5a/1/1047/index.m3u8?token=d44cc1703fb1a11e11a7cbf432901597_1452645980_1452645980&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Puls8.ch" group-title="Deutsch" tvg-logo="0000.png",[COLOR RoyalBlue]8+ HD[/COLOR]
+http://62.65.140.218:80/session/02cdfb6e-b8c6-11e5-ba7d-005056bc49ac/nvnv5a/2/1053/index.m3u8?token=f520997a8c45249fa2aa21bab7ff025d_1452646029_1452646029&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Joiz.ch" group-title="Deutsch" tvg-logo="0042.png",[COLOR RoyalBlue]Joiz[/COLOR]
+http://62.65.140.154:80/session/fa0d2f0e-b8c5-11e5-a065-005056bc49ac/nvnv5a/2/1172/index.m3u8?token=7ef62afc9e4b73ee6908d90019bace8c_1452646014_1452646014&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="Deutsch" tvg-logo="0035.png",[COLOR RoyalBlue]EuroNews DE[/COLOR]
+http://62.65.140.148:80/session/f24c8f4e-b8c5-11e5-9d06-005056bc1a52/nvnv5a/1/1049/index.m3u8?token=a14493131176a68ccbbeabc4a7cf153c_1452646001_1452646001&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR RoyalBlue]EuroSport[/COLOR]
+http://62.65.140.153:80/session/f2bcc57a-b8c5-11e5-8c77-005056bc49ac/nvnv5a/1/1051/index.m3u8?token=1da30842316b9875e12fec9cb09c151f_1452646002_1452646002&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0800 tvg-id="EurosportHD.uk" group-title="English" tvg-logo="0049.png",[COLOR orange]Eurosport 1 EN[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1 tvg-id="Sport1HD.de" group-title="Deutsch" tvg-logo="0050.png",[COLOR RoyalBlue]Sport1[/COLOR]
+http://62.65.140.212:80/session/0d2eec94-b8c6-11e5-9fb7-005056bc06d1/nvnv5a/1/1095/index.m3u8?token=6470d6af7f7f5f706a25ceb852400c55_1452646046_1452646046&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0047.png",[COLOR RoyalBlue]KiKa HD[/COLOR]
+http://62.65.140.153:80/session/faf2d1c6-b8c5-11e5-82cf-005056bc06d1/nvnv5a/1/1116/index.m3u8?token=732cc0bf4660a06edf960dcce271134c_1452646015_1452646015&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" group-title="Deutsch" tvg-logo="0065.png",[COLOR RoyalBlue]Deluxe Music[/COLOR]
+http://62.65.140.216:80/session/ef491236-b8c5-11e5-a1b6-005056bc1a52/nvnv5a/1/1153/index.m3u8?token=72b56cb3b1a6f27ad13f1c216a922d73_1452645996_1452645996&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="MTV.ch" group-title="Deutsch" tvg-logo="0145.png",[COLOR RoyalBlue]MTV HD DE[/COLOR]
+http://62.65.140.149:80/session/fe6fd416-b8c5-11e5-abdd-005056bc49ac/nvnv5a/1/1033/index.m3u8?token=6a92815e9f37f1601a53029983a92f00_1452646021_1452646021&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="Viva.de" group-title="Deutsch" tvg-logo="0044.png",[COLOR RoyalBlue]VIVA HD[/COLOR]
+http://62.65.140.154:80/session/37a8885e-b8c6-11e5-a598-005056bc06d1/nvnv5a/1/1014/index.m3u8?token=a1c526c9ed6b61c31a0149cdecae517e_1452646117_1452646117&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ORF1.at" group-title="Deutsch" tvg-logo="0071.png",[COLOR RoyalBlue]ORF1 HD[/COLOR]
+http://62.65.140.153:80/session/00b38592-b8c6-11e5-8a64-005056bc49ac/nvnv5a/1/1010/index.m3u8?token=bc0ed3b9e0285b9e49c3952daac99419_1452646025_1452646025&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:-1 tvg-id="ORF2.at" group-title="Deutsch" tvg-logo="0073.png",[COLOR RoyalBlue]ORF2 HD[/COLOR]
+http://62.65.140.152:80/session/011bbd06-b8c6-11e5-8896-005056bc06d1/nvnv5a/1/1011/index.m3u8?token=b024587de407ae46f11c77f3e63fb4e9_1452646026_1452646026&p=127|X-Forwarded-For=85.195.192.0
+#EXTINF:0800 tvg-id="HR.de" group-title="Deutsch" tvg-logo="0026.png",[COLOR RoyalBlue]HR HD[/COLOR]
+http://www.iptvsaga.com/play/tv3/0119.m3u8
+#EXTINF:0800 tvg-id="DeutscheWelle.de" group-title="Deutsch" tvg-logo="0125.png",[COLOR RoyalBlue]Deutsche Welle[/COLOR]
+http://www.iptvsaga.com/play/tv3/0120.m3u8
+#EXTINF:0800 tvg-id="DAF.de" group-title="Deutsch" tvg-logo="0098.png",[COLOR RoyalBlue]DAF[/COLOR]
+http://www.iptvsaga.com/play/tv3/0122.m3u8
+#EXTINF:0800 tvg-id="WeltDerWunder.de" group-title="Deutsch" tvg-logo="0099.png",[COLOR RoyalBlue]Welt der Wunder[/COLOR]
+http://www.iptvsaga.com/play/tv3/0123.m3u8
+#EXTINF:-1,LIG TV 1 HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/130.ts
+#EXTINF:-1,LIGTV 2 HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/3.ts
+#EXTINF:-1,LIGTV 3 HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/4.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/209.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/184.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/69.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/67.ts
+#EXTINF:-1,HISTORY CHANNEL HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/178.ts
+#EXTINF:-1,SKY SELECT HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/189.ts
+#EXTINF:-1,SKY SELECT 1 HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/188.ts
+#EXTINF:-1,SKY SELECT 2 HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/187.ts
+#EXTINF:-1,SKY SELECT 3 HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/288.ts
+#EXTINF:-1,SKY SELECT 4 HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/289.ts
+#EXTINF:-1,SKY BUNDESLIGA 1 DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/100.ts
+#EXTINF:-1,SKY BUNDESLIGA 1 HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/219.ts
+#EXTINF:-1,SKY SPORT 1 HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/101.ts
+#EXTINF:-1,SKY SPORT 1 DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/205.ts
+#EXTINF:-1,SKY SPORT 2 HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/102.ts
+#EXTINF:-1,SKY SPORT 2
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/239.ts
+#EXTINF:-1,SKY CINEMA +1 DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/287.ts
+#EXTINF:-1,SKY EMOTION HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/282.ts
+#EXTINF:-1,SKY ATLANTIC HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/283.ts
+#EXTINF:-1,13 TH  STREET HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/286.ts
+#EXTINF:-1,SKY COMEDY
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/228.ts
+#EXTINF:-1,SKY CINEMA HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/149.ts
+#EXTINF:-1,SKY ACTION HD DE
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/150.ts
+#EXTINF:-1,Sky-Sport1-UK
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/192.ts
+#EXTINF:-1,SKY SPORTS 2 UK
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/191.ts
+#EXTINF:-1,SKY SPORTS 3 UK
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/190.ts
+#EXTINF:-1,SKY SPORTS 4 UK
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/252.ts
+#EXTINF:-1,SKY SPORTS 5 UK
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/253.ts
+#EXTINF:-1,SKY SPORTS F1 UK
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/254.ts
+#EXTINF:-1,SKY SPORT FORMULA
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/236.ts
+#EXTINF:-1,Sky Sports 4
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/231.ts
+#EXTINF:-1,Sky Sports 5
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/230.ts
+#EXTINF:-1,SKY SPORT1 + CALCIO 1 HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/247.ts
+#EXTINF:-1,BEINSPORT 1 HD FR
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/258.ts
+#EXTINF:-1,BEINSPORT 2 HD AR
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/259.ts
+#EXTINF:-1,BEINSPORT 3 HD AR
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/260.ts
+#EXTINF:-1,BEIN SPORT 3 HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/241.ts
+#EXTINF:-1,BEIN SPORT 4 HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/240.ts
+#EXTINF:-1,BEIN SPORT 5 HD
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/255.ts
+#EXTINF:-1,BEINSPORT 9 HD AR
+http://iptv.libfoobar.so:8080/live/stegvb/JQJt4hweh9/256.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
